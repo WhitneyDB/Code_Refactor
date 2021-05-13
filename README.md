@@ -9,3 +9,6 @@
 4) All modified code was commented out and attempts to make sesinble 'commits' at each add to repo and change in code. 
 
 5) Functionality of site remains unchanged.
+
+6) view site at https://whitneydb.github.io/Code_Refactor/
+
