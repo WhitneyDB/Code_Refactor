@@ -12,3 +12,4 @@
 
 6) view site at https://whitneydb.github.io/Code_Refactor/
 
+7) view screenshot here: https://github.com/WhitneyDB/Code_Refactor/blob/main/assets/images/search-engine-optimization.jpg
