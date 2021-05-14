@@ -10,8 +10,15 @@
 
 5) Functionality of original site remains unchanged.
 
-6) view site at https://whitneydb.github.io/Code_Refactor/
+6)LINKS
 
-# SCREENSHOT OF SITE #
-![Screenshot](assets/images/screencapture-whitneydb-github-io-Code-Refactor-2021-05-13-17_44_38.png)
+## Screenshot
 
+<img src="/assets/images/screencapture-whitneydb-github-io-Code-Refactor-2021-05-13-17_44_38.png"/>
+
+## Link to the application
+
+[Application](https://github.com/WhitneyDB/Code_Refactor)
+
+## Link to the Github Page
+[Github Page](https://whitneydb.github.io/Code_Refactor/)
