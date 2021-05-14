@@ -8,11 +8,10 @@
 
 4) All modified code was commented out and attempts to make sesinble 'commits' at each add to repo and change in code. 
 
-5) Functionality of site remains unchanged.
+5) Functionality of original site remains unchanged.
 
 6) view site at https://whitneydb.github.io/Code_Refactor/
 
-7) view screenshot here: https://github.com/WhitneyDB/Code_Refactor/blob/main/assets/images/search-engine-optimization.jpg
+# SCREENSHOT OF SITE #
+![Screenshot](assets/images/screencapture-whitneydb-github-io-Code-Refactor-2021-05-13-17_44_38.png)
 
-![https://github.com/WhitneyDB/Code_Refactor/blob/main/assets/images/search-engine-optimization.jpg
-]
